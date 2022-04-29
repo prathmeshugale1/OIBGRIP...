@@ -1,0 +1,33 @@
+body{
+  background-color: rgba(233, 164, 79, 0.406);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: -2%;
+
+}
+
+h3 {
+
+  text-align: center;
+  
+  }
+
+.navbar-brand {
+  font-size: 250%;
+  color: #000;;
+}
+
+h1{
+  font-size: 350%;
+}
+h3{
+padding-top: 5%;
+}
+
+li{
+  padding-top: 4%;
+  text-size-adjust: 4%;
+}
